@@ -8,7 +8,7 @@
 
 
 ## 如何將後端 api 服務在本地端運行起來？
-1. 在 `ask-your-file` 路徑底下運行指令： `source backend/venv/bin/activate`
+1. 在 `chart-vlm` 路徑底下運行指令： `source backend/venv/bin/activate`
    - windows 建議在 WSL2 中執行
 2. 運行指令：`python -m backend`  
   即可將後端的服務跑起來

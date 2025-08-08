@@ -7,7 +7,7 @@ vlm on chart comprehension
 3. 前端目前設定在哪個 port；如果要調整的話，該如何調整？
 
 ## 後端服務怎麼跑起來
-1. 在 `ask-your-file` 路徑底下運行指令： `source backend/venv/bin/activate`
+1. 在 `chart-vlm` 路徑底下運行指令： `source backend/venv/bin/activate`
    - windows 建議在 WSL2 中執行
 2. 運行指令：`python -m backend`  
   即可將後端的服務跑起來
