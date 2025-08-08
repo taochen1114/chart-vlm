@@ -1,0 +1,15 @@
+﻿Model,Type,Exact Match Score,LLM Judge Score
+MiniCPM-V-2_6,圓餅圖,0.3333333333333333,2.6666666666666665
+MiniCPM-V-2_6,堆疊長條圖,0.07692307692307691,1.3076923076923077
+MiniCPM-V-2_6,折線圖,0.0,1.0
+MiniCPM-V-2_6,瀑布圖,0.0,1.0
+MiniCPM-V-2_6,群組長條圖,0.0,2.0
+MiniCPM-V-2_6,表格,0.0,1.0
+MiniCPM-V-2_6,長條圖,0.17391304347826086,1.6956521739130437
+Qwen2.5-VL-7B-Instruct,圓餅圖,0.0,4.333333333333333
+Qwen2.5-VL-7B-Instruct,堆疊長條圖,0.0,2.5384615384615388
+Qwen2.5-VL-7B-Instruct,折線圖,0.0,3.0
+Qwen2.5-VL-7B-Instruct,瀑布圖,0.0,4.0
+Qwen2.5-VL-7B-Instruct,群組長條圖,0.0,1.6666666666666667
+Qwen2.5-VL-7B-Instruct,表格,0.0,1.0
+Qwen2.5-VL-7B-Instruct,長條圖,0.0,3.4347826086956523

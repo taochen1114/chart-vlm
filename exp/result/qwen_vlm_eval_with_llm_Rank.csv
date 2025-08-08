@@ -1,0 +1,16 @@
+﻿Type,Question,Short Answer,Long Answer,Prediction,Exact Match Score,LLM Judge Score,Model
+長條圖,從 FY21 到 1Q25，哪一年（或季度）的帳面淨值最高？,FY21,FY21，914.0 億元,從 FY21 到 1Q25，帳面淨值最高的年份是 FY21，為 742.1 NT$BN。,0,3,Qwen2.5-VL-7B-Instruct
+折線圖,哪一季的資產平均收益率（Avg. rate of interest-earning assets）最高？,9M24,9M24，為 3.07%,根据图片中的数据，国泰金控在2024年第四季度（FY24/1Q25）的资产平均收益率（Avg. rate of interest-earning assets）最高，为115.0%。,0,1,Qwen2.5-VL-7B-Instruct
+長條圖,FY21～1Q25 中 SME 放款金額最高的是哪一年？,1Q25,最高為 1Q25，金額為 340.0 億元。,根据图表中的数据，FY21～1Q25 中 SME 放款金額最高的年份是 FY24，金额为 340.0 NT$BN。,0,3,Qwen2.5-VL-7B-Instruct
+長條圖,從 FY20 到 FY24 的五年間，哪一年海外獲利金額最低？,FY23,最低為 FY23，僅 3.2 億元。,找不到任何相關資訊,0,1,Qwen2.5-VL-7B-Instruct
+堆疊長條圖,哪一年財富管理手續費淨收益最高？,FY24,FY24 為最高，達 NT$16.0B。,根據提供的財務數據表，國泰金控（Cathay Financial Holdings）的財富管理手續費淨收益在2024年（FY24）達到最高，為54億新台幣。,0,3,Qwen2.5-VL-7B-Instruct
+堆疊長條圖,哪一年「健康及意外險」的總保費收入最高？,FY24,FY24 年最高，為 NT$123.6B,找不到任何相關資訊,0,1,Qwen2.5-VL-7B-Instruct
+長條圖,FY20～FY24 中，哪一年新契約價值最高？,FY24,FY24 為最高，NT$33.8B,根据图片中的数据，FY24（2024财年）的新契约价值最高，为33.8亿新台币。,0,5,Qwen2.5-VL-7B-Instruct
+折線圖,FY19～FY24 之中，哪一年負債成本最高？,FY19,FY19 為最高，為 3.95%,根据图表中的数据，FY19年负债成本最高，为3.95%。,0,5,Qwen2.5-VL-7B-Instruct
+表格,請依照 1Q25 各資產報酬率從高到低排序前三名。,國內股票 > 國外股票>國內債券,國內股票（11.7%）> 國外股票（7.8%）>國內債券（5.2%）,3. **保單貸款**：5.1%,0,1,Qwen2.5-VL-7B-Instruct
+長條圖,請依照避險後投資收益率的高低排序 1Q21～1Q25 各季資料。,1Q21> 1Q22 > 1Q24 > 1Q25 > 1Q23,1Q21（6.31%） > 1Q22（4.74%） > 1Q24（4.39%） > 1Q25（4.01%） > 1Q23（2.69%）,5. 1Q23: 2.69%,0,3,Qwen2.5-VL-7B-Instruct
+圓餅圖,在 1Q25 的「外幣資產避險結構」中，各項目依占比由高到低排序為何？,Currency swap & NDF > Proxy & open > FVOCI & FVTPL overlay,"1. Currency swap & NDF（69%）
+
+2. Proxy & open（22%）
+
+3. FVOCI & FVTPL overlay（9%）",因此，占比最高的项目是 Currency swap & NDF，其次是 Proxy & open，最后是 FVOCI & FVTPL (overlay)。,0,5,Qwen2.5-VL-7B-Instruct
